@@ -1,0 +1,9 @@
+http://127.0.0.1:9222/json/version
+
+node index-add-dev.js
+
+set zone
+set price
+
+
+Standard Shipping (6-12 business days via DHL/UPS/FedEx/EMS/Aramex)
